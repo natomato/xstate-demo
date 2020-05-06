@@ -1,2 +1,2 @@
 # xstate-demo
-A demo app with slightly more complexity to demo testing
+A demo app with slightly more complexity to kick the tires on xstate & xstate/test
